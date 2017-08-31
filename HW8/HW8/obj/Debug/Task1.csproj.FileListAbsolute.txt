@@ -1,0 +1,12 @@
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\bin\Debug\HW8.exe.config
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\bin\Debug\HW8.exe
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\bin\Debug\HW8.pdb
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\obj\Debug\HW8.exe
+c:\users\омиржанн\documents\visual studio 2017\Projects\HW8\HW8\obj\Debug\HW8.pdb
+E:\HW8\HW8\bin\Debug\HW8.exe.config
+E:\HW8\HW8\bin\Debug\HW8.exe
+E:\HW8\HW8\bin\Debug\HW8.pdb
+E:\HW8\HW8\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\HW8\HW8\obj\Debug\HW8.exe
+E:\HW8\HW8\obj\Debug\HW8.pdb
